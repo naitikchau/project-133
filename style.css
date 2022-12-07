@@ -1,0 +1,30 @@
+.header
+{
+    font-size: 30px;
+    box-shadow: 5px 5px 5px rgb(70, 244, 102);
+}
+
+.header:hover
+{
+    width: 280px;
+}
+
+body
+{
+    background-size: cover;
+    background-position: center;
+}
+
+.link
+{
+    font-size: 25px;
+    background: white;
+    border-radius: 15px;
+    width: 350px;
+    margin-top: 15px;
+}
+
+.link:hover
+{
+    font-size: 30px;
+}
